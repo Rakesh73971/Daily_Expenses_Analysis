@@ -1,0 +1,91 @@
+date,category,description,amount,payment_method
+2024-01-01,Food,Breakfast,80,Cash
+2024-01-01,Transport,Bus fare,40,Cash
+2024-01-02,Food,Lunch,120,UPI
+2024-01-02,Entertainment,Movie ticket,250,UPI
+2024-01-03,Groceries,Vegetables,300,Cash
+2024-01-03,Food,Dinner,180,UPI
+2024-01-04,Bills,Mobile recharge,199,UPI
+2024-01-04,Transport,Auto fare,70,Cash
+2024-01-05,Food,Breakfast,90,Cash
+2024-01-05,Shopping,Clothes,1200,Card
+2024-01-06,Groceries,Rice and wheat,850,Card
+2024-01-06,Food,Lunch,140,UPI
+2024-01-07,Entertainment,OTT Subscription,399,Card
+2024-01-07,Transport,Taxi,220,UPI
+2024-01-08,Food,Dinner,200,UPI
+2024-01-08,Bills,Electricity bill,950,UPI
+2024-01-09,Food,Breakfast,85,Cash
+2024-01-09,Groceries,Fruits,320,Cash
+2024-01-10,Transport,Metro card topup,300,UPI
+2024-01-10,Entertainment,Cafe visit,180,UPI
+2024-01-11,Food,Lunch,150,UPI
+2024-01-11,Shopping,Shoes,2200,Card
+2024-01-12,Groceries,Milk & eggs,210,Cash
+2024-01-12,Food,Dinner,190,UPI
+2024-01-13,Transport,Bus fare,40,Cash
+2024-01-13,Bills,Internet bill,799,UPI
+2024-01-14,Food,Breakfast,95,Cash
+2024-01-14,Entertainment,Snacks,120,Cash
+2024-01-15,Groceries,Monthly groceries,2600,Card
+2024-01-15,Food,Lunch,160,UPI
+2024-01-16,Transport,Auto fare,65,Cash
+2024-01-16,Shopping,Backpack,1400,Card
+2024-01-17,Food,Dinner,210,UPI
+2024-01-17,Entertainment,Concert ticket,1200,Card
+2024-01-18,Groceries,Vegetables,310,Cash
+2024-01-18,Transport,Taxi,260,UPI
+2024-01-19,Food,Breakfast,85,Cash
+2024-01-19,Bills,Water bill,420,UPI
+2024-01-20,Food,Lunch,145,UPI
+2024-01-20,Shopping,Headphones,1800,Card
+2024-01-21,Groceries,Fruits,350,Cash
+2024-01-21,Entertainment,Cinema snacks,200,Cash
+2024-01-22,Food,Dinner,195,UPI
+2024-01-22,Transport,Bus fare,40,Cash
+2024-01-23,Bills,Gas bill,650,UPI
+2024-01-23,Food,Breakfast,90,Cash
+2024-01-24,Groceries,Milk & bread,180,Cash
+2024-01-24,Transport,Auto fare,75,Cash
+2024-01-25,Food,Lunch,155,UPI
+2024-01-25,Entertainment,Streaming rent,299,UPI
+2024-01-26,Groceries,Snacks,260,Cash
+2024-01-26,Food,Dinner,205,UPI
+2024-01-27,Shopping,Watch,2500,Card
+2024-01-27,Transport,Taxi,240,UPI
+2024-01-28,Food,Breakfast,95,Cash
+2024-01-28,Bills,Credit card bill,3200,UPI
+2024-01-29,Groceries,Vegetables,340,Cash
+2024-01-29,Entertainment,Game recharge,150,UPI
+2024-01-30,Food,Lunch,160,UPI
+2024-01-30,Transport,Bus fare,40,Cash
+2024-01-31,Food,Dinner,220,UPI
+2024-02-01,Groceries,Monthly groceries,2700,Card
+2024-02-02,Bills,Rent,8000,UPI
+2024-02-03,Food,Breakfast,100,Cash
+2024-02-04,Entertainment,Family outing,900,Card
+2024-02-05,Transport,Taxi,280,UPI
+2024-02-06,Food,Lunch,170,UPI
+2024-02-07,Groceries,Fruits,360,Cash
+2024-02-08,Food,Dinner,210,UPI
+2024-02-09,Shopping,Jacket,3200,Card
+2024-02-10,Bills,Mobile recharge,249,UPI
+2024-02-11,Food,Breakfast,95,Cash
+2024-02-12,Transport,Auto fare,80,Cash
+2024-02-13,Entertainment,Snacks,140,Cash
+2024-02-14,Food,Dinner,230,UPI
+2024-02-15,Groceries,Vegetables,330,Cash
+2024-02-16,Bills,Internet bill,799,UPI
+2024-02-17,Food,Lunch,165,UPI
+2024-02-18,Transport,Bus fare,40,Cash
+2024-02-19,Shopping,Belt,650,Card
+2024-02-20,Entertainment,Cafe visit,220,UPI
+2024-02-21,Food,Breakfast,100,Cash
+2024-02-22,Groceries,Milk & eggs,230,Cash
+2024-02-23,Food,Dinner,215,UPI
+2024-02-24,Transport,Taxi,260,UPI
+2024-02-25,Bills,Electricity bill,1020,UPI
+2024-02-26,Shopping,Books,900,Card
+2024-02-27,Food,Lunch,175,UPI
+2024-02-28,Entertainment,Movie ticket,300,UPI
+2024-02-29,Groceries,Fruits,380,Cash
